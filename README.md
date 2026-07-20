@@ -43,7 +43,7 @@ The clock face is modelled after a real nautical porthole: a dark iron wall plat
 
 ## Usage
 
-No build step required. Open `maritime_clock.html` directly in a browser:
+No build step required. Open [Maritime Clock](https://tengyanhaiin-star.github.io/Maritime-Clock/) directly in a browser:
 
 **On iPhone:** transfer the file to your device (via AirDrop, iCloud Drive, or a local server), open it in Safari, and tap *Share → Add to Home Screen* for a full-screen experience.
 
